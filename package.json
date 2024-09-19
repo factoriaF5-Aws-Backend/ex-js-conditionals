@@ -1,0 +1,17 @@
+{
+    "name": "your-project-name",
+    "version": "1.0.0",
+    "type": "module",
+    "main": "script.js",
+    "scripts": {
+      "test": "vitest"
+    },
+    "description": "",
+    "devDependencies": {
+      "vitest": "^2.0.5"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC"
+  }
+  

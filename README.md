@@ -1,1 +1,1 @@
-# ex-js-conditionals
+# javascript-exercises-tested
