@@ -3,8 +3,8 @@
 * npm init -y
 * npm install vitest --save-dev
 * Asegurarte que el package.json tiene:
-- "type": "module",
-- "scripts": {
+  - "type": "module",
+  - "scripts": {
       "test": "vitest"
     },
 * npm run test
