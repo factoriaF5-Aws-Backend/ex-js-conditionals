@@ -1,0 +1,14 @@
+{
+  "name": "ex-js-variables-conditionals",
+  "version": "1.0.0",
+  "description": "Simple conditional JS exercices",
+  "main": "main.js",
+  "scripts": {
+    "test": "vitest"
+  },
+  "author": "Sergi-Virgili",
+  "license": "ISC",
+  "devDependencies": {
+    "vitest": "^2.1.1"
+  }
+}
